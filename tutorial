@@ -1,1 +1,3 @@
 
+pip3 install mysqlclient --user problem
+ALTER DATABASE `databasename` CHARACTER SET utf8; migrate problem
