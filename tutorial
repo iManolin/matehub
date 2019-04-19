@@ -1,3 +1,23 @@
 
 pip3 install mysqlclient --user problem
 ALTER DATABASE `databasename` CHARACTER SET utf8; migrate problem
+
+---------------------------------------------------------
+flutter problem 
+
+After cloning the repo, don't cd ./flutter before running the commad.
+the pwd represent the current directory where you were before cloning the repo.
+The full command is:
+
+export PATH=`pwd`/flutter/bin:$PATH
+
+You can make life easier by adding it to your bashrc or zshrc
+
+Move flutter to home dir
+
+$ mv flutter ~
+
+Add the path to your ~/.zshrc
+path+=('/home/username/flutter/bin')
+export PATH
+Source it source ~/.zshrc
