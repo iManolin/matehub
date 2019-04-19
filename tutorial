@@ -21,3 +21,15 @@ Add the path to your ~/.zshrc
 path+=('/home/username/flutter/bin')
 export PATH
 Source it source ~/.zshrc
+
+>>  export PATH=`pwd`/flutter/bin:$PATH
+>> pwd
+>>echo $PATH
+>> mv flutter ~
+~$ nano ~/.zshrc [ path+=('/home/username/flutter/bin') ]
+>> export PATH
+source ~/.zshrc
+
+>>
+
+
