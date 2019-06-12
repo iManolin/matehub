@@ -8,7 +8,8 @@ user command :python manage.py create_invite --email info@localhost --username u
 
 user tok :  eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6M30.uIDXxOFNeX-yq3D-T9b6G3w8gOAr0obZ4-9yl8YjMpY
 
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NX0.jKBBsmVWhz20p5myLagdx_YVMbyZxbDMi1yrXYe8wBc
+localhost?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NX0.jKBBsmVWhz20p5myLagdx_YVMbyZxbDMi1yrXYe8wBc
+Ref [ www.website.com?token= ];
 
 
 gradle problem flavor : under main.dart development
