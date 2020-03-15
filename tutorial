@@ -42,6 +42,8 @@ Source it source ~/.zshrc
 >> export PATH
 source ~/.zshrc
 
->>
+>>>> FLUTTER PATH FIX https://stackoverflow.com/questions/60145848/how-to-add-flutter-sdk-to-path-permanently-on-ubuntu-linux amd restart
+
+
 
 
